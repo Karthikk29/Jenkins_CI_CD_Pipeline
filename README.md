@@ -1,3 +1,5 @@
+![CI/CD Pipeline Diagram](FLOW_DIAGRAM)
+
 # CI/CD Pipeline Setup with Jenkins and Docker on EC2
 
 This guide walks you through setting up a CI/CD pipeline on an EC2 instance using Jenkins and Docker.
