@@ -1,4 +1,4 @@
-![CI/CD Pipeline Diagram](FLOW_DIAGRAM.png)
+![CI/CD Pipeline Diagram](FLOW_DIAGRAM1.png)
 
 # CI/CD Pipeline Setup with Jenkins and Docker on EC2
 
